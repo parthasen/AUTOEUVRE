@@ -1,2 +1,2 @@
-    Name	      email
-    Partha Sen	  research@parthasen.net
+    Name                email
+    Partha Sen          research@parthasen.net
