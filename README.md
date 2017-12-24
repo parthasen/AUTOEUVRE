@@ -1,13 +1,16 @@
 Final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. For more information about the project, see the project introduction [here](https://classroom.udacity.com/nanodegrees/nd013/parts/6047fe34-d93c-4f50-8336-b70ef10cb4b2/modules/e1a23b06-329a-4684-a717-ad476f0d8dff/lessons/462c933d-9f24-42d3-8bdc-a08a5fc866e4/concepts/5ab4b122-83e6-436d-850f-9f4d26627fd9).
 
-**Team: AUTOEUVRE
+This project was started by end of November, 2017 but formally teamed up on 4th December, 2017 and first submission was made on 24th Decmeber by distributed participation of five members. 
+
+**Team: AUTOEUVRE**
     
-    Name                email@
-    Attila Babo         vinitmuchhala@gmail.com
-    Isabella Johansson  isabellamariaellinor@gmail.com
-    Partha Sen          research@parthasen.net
-    Vinit Muchhala      vinitmuchhala@gmail.com
-    Seunghun Lee        waydi1@gmail.com
+    Name                email@                              Role
+    Attila Babo         vinitmuchhala@gmail.com             Testing
+    Isabella Johansson  isabellamariaellinor@gmail.com      DBW
+    Partha Sen          research@parthasen.net              Traffic Light Detection
+    Seunghun Lee        waydi1@gmail.com                    Waypoints
+    Vinit Muchhala      vinitmuchhala@gmail.com             Traffic Light Classification
+    
     
     
 
