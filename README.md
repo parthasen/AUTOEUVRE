@@ -6,7 +6,7 @@ Project introduction [here](https://classroom.udacity.com/nanodegrees/nd013/part
 **Team: AUTOEUVRE**
     
     Name                email@                              Role
-    Attila Babo         vinitmuchhala@gmail.com             Testing
+    Attila Babo         attila.babo@gmail.com               Testing
     Isabella Johansson  isabellamariaellinor@gmail.com      DBW
     Partha Sen          research@parthasen.net              Traffic Light Detection
     Seunghun Lee        waydi1@gmail.com                    Waypoints
