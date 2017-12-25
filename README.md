@@ -12,15 +12,7 @@ Project introduction [here](https://classroom.udacity.com/nanodegrees/nd013/part
 |Seunghun Lee|waydi1@gmail.com|Waypoints|
 |Vinit Muchhala|vinitmuchhala@gmail.com|Traffic Light Classification|
 
- 
-    
-    Name                email@                              Role
-    Attila Babo         attila.babo@gmail.com               Testing
-    Isabella Johansson  isabellamariaellinor@gmail.com      DBW
-    Partha Sen          research@parthasen.net              Traffic Light Detection
-    Seunghun Lee        waydi1@gmail.com                    Waypoints
-    Vinit Muchhala      vinitmuchhala@gmail.com             Traffic Light Classification
-    
+
     
     
 ![ros-graph](https://github.com/parthasen/autoeuvre.com/blob/master/imgs/final-project-ros-graph-v2.png)
